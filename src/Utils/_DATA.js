@@ -60,7 +60,7 @@ let tweets = {
   "f4xzgapq7mu783k9t02ghx": {
     id: "f4xzgapq7mu783k9t02ghx",
     text: "Want to work at Facebook/Google/:BigCompany? Start contributing code long before you ever interview there.",
-    author: "IKEEPMOVINGFORWARD",
+    author: "the_food_lover",
     timestamp: 1517043995650,
     likes: ['iwannakillmyself'],
     replies: [],
@@ -78,7 +78,7 @@ let tweets = {
   "5w6k1n34dkp1x29cuzn2zn": {
     id: "5w6k1n34dkp1x29cuzn2zn",
     text: "Is there a metric like code coverage, but that shows lines that, if changed (in a syntactically correct way), wouldn’t cause tests to fail?",
-    author: "iwannakillmyself",
+    author: "the_food_lover",
     timestamp: 1515043995650,
     likes: ['ereh_lover'],
     replies: [],
@@ -96,7 +96,7 @@ let tweets = {
   "2mb6re13q842wu8n106bhk": {
     id: "2mb6re13q842wu8n106bhk",
     text: "I think I realized I like dogs so much because I can really relate to being motivated by snacks",
-    author: "ereh_lover",
+    author: "youknowme",
     timestamp: 1514043995650,
     likes: ['iwannakillmyself'],
     replies: ['26p5pskqi88i58qmza2gid'],
@@ -140,7 +140,7 @@ let tweets = {
   },
   "fap8sdxppna8oabnxljzcv": {
     id: "fap8sdxppna8oabnxljzcv",
-    author: "IKEEPMOVINGFORWARD",
+    author: "female_titan_official",
     text: "I agree. I'm always really impressed when I see someone giving a talk in a language that's not their own.",
     timestamp: 1518122677860,
     likes: ['ereh_lover'],
@@ -149,7 +149,7 @@ let tweets = {
   },
   "3km0v4hf1ps92ajf4z2ytg": {
     id: "3km0v4hf1ps92ajf4z2ytg",
-    author: "iwannakillmyself",
+    author: "youknowme",
     text: "It can be difficult at times.",
     timestamp: 1518122667860,
     likes: [],
@@ -176,16 +176,16 @@ let tweets = {
   },
   "sfljgka8pfddbcer8nuxv": {
     id: "sfljgka8pfddbcer8nuxv",
-    author: "iwannakillmyself",
+    author: "youknowme",
     text: "Puppies are the best.",
     timestamp: 1516045995650,
-    likes: ['ereh_lover', 'IKEEPMOVINGFORWARD'],
+    likes: ['IKEEPMOVINGFORWARD', 'IKEEPMOVINGFORWARD'],
     replyingTo: "hbsc73kzqi75rg7v1e0i6a",
     replies: [],
   },
   "3sklxkf9yyfowrf0o1ftbb": {
     id: "3sklxkf9yyfowrf0o1ftbb",
-    author: "ereh_lover",
+    author: "IKEEPMOVINGFORWARD",
     text: "The idea of best practices being a negative thing is an interesting concept.",
     timestamp: 1515044095650,
     likes: ['iwannakillmyself'],
@@ -194,10 +194,10 @@ let tweets = {
   },
   "26p5pskqi88i58qmza2gid": {
     id: "26p5pskqi88i58qmza2gid",
-    author: "IKEEPMOVINGFORWARD",
+    author: "female_titan_official ",
     text: "Too relatable",
     timestamp: 1514044994650,
-    likes: ['ereh_lover'],
+    likes: ['IKEEPMOVINGFORWARD'],
     replyingTo: "2mb6re13q842wu8n106bhk",
     replies: [],
   },
@@ -212,7 +212,7 @@ let tweets = {
   },
   "r0xu2v1qrxa6ygtvf2rkjw": {
     id: "r0xu2v1qrxa6ygtvf2rkjw",
-    author: "iwannakillmyself",
+    author: "female_titan_official",
     text: "This is a great idea.",
     timestamp: 1510044395650,
     likes: ['IKEEPMOVINGFORWARD'],
