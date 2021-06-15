@@ -1,7 +1,6 @@
 # Chirper
- Chirper is a twitter replica app made using ReactJS and React Redux
-## Project Setup
 
-* install the dependencies - `npm install`
-* run the project - `npm start`
+This is a twitter replica project built with React Redux.
 
+# Link
+https://andrew51234-chirper.netlify.app/
